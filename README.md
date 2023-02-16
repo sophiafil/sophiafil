@@ -3,7 +3,7 @@
 ### About Me:
 
 - 🎒 I am currently a senior Information Science student with a minor in Mathemathics at the University of North Florida. SWOOP 🪶!
-- ✏️ I am a UX/UI Intern at Black Knight Financial Services until May 2023 when I graduate!
+- ✏️ I am an upcoming UI/UX Designer!
 - 🥕 I am currently working with the non-profit organization Safe Future Foundation in creating an inventory management system using Angular and Firebase.
 - 💻 I am looking into applying for graduate school and receiving a M.S in Human Computer Interaction.
 - 🛼 I like to roller skate, play video and board games, and do digital and traditional art in my free time.
